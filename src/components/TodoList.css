@@ -1,0 +1,12 @@
+.container {
+  width: 960px;
+}
+
+form {
+  width: 250px;
+}
+
+.fa-italic {
+  position: relative;
+  left: 6px;
+}
